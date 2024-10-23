@@ -45,7 +45,7 @@
   },
   "homepage": "https://github.com/gkjohnson/three-bvh-csg#readme",
   "peerDependencies": {
-    "three": ">=0.151.0",
+    "three": "npm:super-three@0.164.0",
     "three-mesh-bvh": ">=0.6.6"
   },
   "devDependencies": {
